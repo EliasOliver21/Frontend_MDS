@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap');
+
+body {
+
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  color: #eaecef;
+}
+
+header {
+
+  padding: 30px;
+  background-color: #011627;
+  height: 50px;
+}
+
+.sidenav {
+
+  width: 240px;
+  background: #011627;
+  position: absolute;
+  height: 95vh;
+  padding: 0 30px;
+  transition: all 1s;
+
+}
