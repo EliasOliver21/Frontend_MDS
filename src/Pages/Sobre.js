@@ -1,7 +1,16 @@
-const Sobre = () => {
+import React from 'react';
 
+const Sobre = () => {
+    
     return(
-        <div>Sobre</div>
+    
+    <div>
+        
+        <h1>Sobre
+        </h1>
+
+    </div>
+
     )
 }
 

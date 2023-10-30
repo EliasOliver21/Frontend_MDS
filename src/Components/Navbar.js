@@ -11,13 +11,13 @@ const Navbar = ({show}) => {
                 <a href="/">Home</a>
                 </li>
             <li>
-                <a href="/">Dados</a>
+                <a href="/dados">Dados</a>
                 </li>
             <li>
-                <a href="/">Sobre</a>
+                <a href="/sobre">Sobre</a>
                 </li>
             <li>
-                <a href="/">Créditos</a>
+                <a href="/creditos">Créditos</a>
                 </li>
             
             </ul>            
