@@ -7,10 +7,12 @@ const Home = () => {
     
     <div className='descricao'>
         
-        <h1>
-            OI
-        </h1>
-
+        <h4>Projeto do Grupo de MDS sobre o 
+            Diário Oficial de Minas Gerais</h4>
+            <p4>Nesse projeto trabalharemos com a filtragem de dados 
+                do estado de Minas Gerais. Facilitando o estudo, 
+                consulta ou qualquer outra coisa daqueles que 
+                quiserem</p4> 
 
     </div>
 
